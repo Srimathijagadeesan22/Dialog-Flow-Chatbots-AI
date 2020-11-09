@@ -1,0 +1,8 @@
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  chat-icon="https://storage.googleapis.com/cloudprod-apiai/a47f0b4d-6acf-4c7f-9455-6ce5bc418a25_x.png"
+  intent="WELCOME"
+  chat-title="Knowledge-Bot"
+  agent-id="94611417-c0a4-41e0-9267-9b84d2a2e75c"
+  language-code="en"
+></df-messenger>
